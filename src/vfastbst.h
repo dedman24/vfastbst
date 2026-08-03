@@ -15,7 +15,7 @@
 //  if it fails, go down a node.
 //  if it succeeds, return true.
 // clearly, the node has to be preallocated ughhh...
-// we can preallocate the node as late as possible.
+// we can preallocate the node as late as possible. actual algorithm is a bit more complex; see for yourself.
 
 // stdlib includes.
 #include "stddef.h"         // for NULL, size_t.
