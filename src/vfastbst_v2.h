@@ -1,7 +1,7 @@
 #ifndef VFASTBST_H_INCLUDED
 #define VFASTBST_H_INCLUDED
 
-// VFASTBST v1.1
+// VFASTBST v2.0
 // vfastbst implements a fast, lockless, insert-only binary search tree.
 // no reason why there's no insert op, I just don't need it.
 //
